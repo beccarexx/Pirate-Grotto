@@ -8,4 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cf41fc8744476394389a365165fb4a98,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 22b2406c8ea0c67479173d826930428b,
+      type: 2}
